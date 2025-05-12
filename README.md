@@ -1,4 +1,4 @@
-# randol_knockout
+# overx_Knockout
 A simple knockout script.
 
 Requirements: 
